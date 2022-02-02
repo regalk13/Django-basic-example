@@ -4,6 +4,10 @@ Simple app made in Django, using Boostrap for styles. This works for create rand
 
 Django is a framework for python whit this you can create web sites in few lines of code, controling FrontEnd and BackEnd in a great way. Possibilities are endless even create API's as I will show in next repos.
 
+# Preview
+
+<img src="https://i.imgur.com/lY8hdIU.png">
+
 # Requirements
 - Python (Preferably Python 3. or 3.10)
 - Django `pip install django`
